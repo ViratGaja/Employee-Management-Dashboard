@@ -31,3 +31,16 @@ This project allows users to **add, edit, delete, and manage employees** with an
 
 ## 📂 Folder Structure
 
+src
+├─ components
+│ ├─ EmployeeForm.jsx
+│ ├─ EmployeeTable.jsx
+│ ├─ SummaryCards.jsx
+│ └─ style.css
+├─ context
+│ ├─ AuthContext.jsx
+│ └─ EmployeeContext.jsx
+├─ pages
+│ └─ Dashboard.jsx
+├─ App.jsx
+└─ main.jsx
